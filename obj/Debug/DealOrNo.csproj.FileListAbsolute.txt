@@ -1,0 +1,9 @@
+E:\Documents\Projects\DealOrNotGame\DealOrNot\obj\Debug\DealOrNo.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\DealOrNotGame\DealOrNot\obj\Debug\DealOrNo.Properties.Resources.resources
+E:\Documents\Projects\DealOrNotGame\DealOrNot\obj\Debug\DealOrNo.MainForm.resources
+E:\Documents\Projects\DealOrNotGame\DealOrNot\obj\Debug\DealOrNo.csproj.GenerateResource.Cache
+E:\Documents\Projects\DealOrNotGame\DealOrNot\obj\Debug\DealOrNo.exe
+E:\Documents\Projects\DealOrNotGame\DealOrNot\obj\Debug\DealOrNo.pdb
+E:\Documents\Projects\DealOrNotGame\DealOrNot\bin\Debug\DealOrNo.exe.config
+E:\Documents\Projects\DealOrNotGame\DealOrNot\bin\Debug\DealOrNo.exe
+E:\Documents\Projects\DealOrNotGame\DealOrNot\bin\Debug\DealOrNo.pdb
